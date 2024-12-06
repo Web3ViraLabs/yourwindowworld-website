@@ -1,0 +1,171 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon8520.eot?tiue2n');
+  src:  url('../fonts/icomoon8520.eot?tiue2n#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon8520.ttf?tiue2n') format('truetype'),
+    url('../fonts/icomoon8520.woff?tiue2n') format('woff'),
+    url('../fonts/icomoon8520.svg?tiue2n#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-down-solid:before {
+  content: "\e923";
+}
+.icon-iconadrees:before {
+  content: "\e920";
+}
+.icon-iconbtnphone:before {
+  content: "\e921";
+}
+.icon-iconmailcontact:before {
+  content: "\e922";
+}
+.icon-Icon-awesome-angle-right:before {
+  content: "\e91e";
+  color: #434e6e;
+}
+.icon-Icon-awesome-angle-right-1:before {
+  content: "\e91f";
+  color: #434e6e;
+}
+.icon-Icon-metro-file-pdf:before {
+  content: "\e91c";
+  color: #fff;
+}
+.icon-medal:before {
+  content: "\e91b";
+  color: #e3cca1;
+}
+.icon-socialin:before {
+  content: "\e91a";
+  color: #e3cca1;
+}
+.icon-iconarowright:before {
+  content: "\e916";
+  color: #434e6e;
+}
+.icon-iconarowleft:before {
+  content: "\e915";
+  color: #434e6e;
+}
+.icon-iconcoutor1:before {
+  content: "\e911";
+  color: #434e6e;
+}
+.icon-iconcoutor2:before {
+  content: "\e912";
+  color: #434e6e;
+}
+.icon-iconcoutor3:before {
+  content: "\e913";
+  color: #434e6e;
+}
+.icon-iconcoutor4:before {
+  content: "\e914";
+  color: #434e6e;
+}
+.icon-iconright:before {
+  content: "\e90d";
+  color: #434e6e;
+}
+.icon-iconnext:before {
+  content: "\e910";
+  color: #434e6e;
+}
+.icon-best:before {
+  content: "\e909";
+  color: #e3cca1;
+}
+.icon-guarantee:before {
+  content: "\e90e";
+  color: #434e6e;
+  transition: all 0.3s ease-in-out;
+}
+.icon-protection:before {
+  content: "\e90f";
+  color: #434e6e;
+  transition: all 0.3s ease-in-out;
+}
+.icon-socialgg:before {
+  content: "\e917";
+  color: #e3cca1;
+}
+.icon-iconarrow-right:before {
+  content: "\e90b";
+  color: #434e6e;
+}
+.icon-iconcheck:before {
+  content: "\e90a";
+  color: #e3cca1;
+}
+.icon-iconbuton:before {
+  content: "\e908";
+  color: #434e6e;
+}
+.icon-Icon-zocial-email:before {
+  content: "\e900";
+  color: #434e6e;
+}
+.icon-iconmail:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-iconmap:before {
+  content: "\e907";
+  color: #fff;
+}
+.icon-iconx:before {
+  content: "\e90c";
+  color: #bfbfbf;
+}
+.icon-iconmail1:before {
+  content: "\e918";
+  color: #fff;
+}
+.icon-iconmap1:before {
+  content: "\e919";
+  color: #fff;
+}
+.icon-Icons:before {
+  content: "\e91d";
+}
+.icon-iconphone:before {
+  content: "\e904";
+  color: #434e6e;
+}
+.icon-icontime:before {
+  content: "\e905";
+  color: #434e6e;
+}
+.icon-Icon-awesome-heart:before {
+  content: "\e901";
+  color: #e3cca1;
+}
+.icon-Icon-ionic-ios-people:before {
+  content: "\e902";
+  color: #e3cca1;
+}
+.icon-Icon-material-work:before {
+  content: "\e903";
+  color: #e3cca1;
+}
+.icon-clock:before {
+  content: "\e924";
+}

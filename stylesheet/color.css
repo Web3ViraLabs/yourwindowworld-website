@@ -1,0 +1,111 @@
+
+/* Extra classes color all page 
+---------------------------------------------------------------*/
+:root {
+    --primary-color: #434e6e !important;
+    --primary-color2: #e3cca1 !important;
+    --white-color: #fff !important;
+    --bg-color: #f8f8f8 !important;
+  }
+  
+  .color-white{
+    color: #fff !important;
+  }
+  
+  .color-434E6E{
+    color: #434E6E !important;
+  }
+  
+  .color-style3{
+    color: #434E6E !important;
+  }
+  
+  .color-style4{
+    color: rgba(138, 140, 161, 0.8) !important;
+  }
+  
+  .color-style1{
+    color: #434E6E !important;
+  }
+  
+  .color-e3cca1{
+    color: #e3cca1 !important;
+  }
+  
+  .color-style5{
+    color: #e3cca1 !important;
+  }
+  
+  .color-style2{
+    color: #091D3E;
+  }
+  
+  .bg-color {
+    background-color: #434e6e !important;
+  }
+  
+  .bg-white{
+    background-color: #fff !important;
+  }
+  
+  .bg-color-style3{
+    background-color: #e3cca1 !important;
+  }
+  
+  .bg-color-style2{
+    background-color: #F8F8F8 !important;
+  }
+  
+  .bg-color-style5{
+    background-color: #E3CCA1;
+    border: none !important;
+  }
+  
+  .color-botom{
+    color: rgba(255, 255, 255, 0.6) !important;
+  }
+  
+  .hv-color-st1:hover {
+    color: #E3CCA1 !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  
+  .bg {
+      background: #516FB1;
+      background: -moz-linear-gradient(top, #516FB1 10%, #516FB1 100%);
+      background: -webkit-linear-gradient(top, #516FB1  10%, #516FB1 100%);
+      background: linear-gradient(to bottom, #516FB1  10%, #516FB1 100%);
+      -webkit-transition: all 0.3s ease;
+      -moz-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      transition: all 0.3s ease;
+  }
+  
+  .bg2 {
+    background: #4195CC;
+    background: -moz-linear-gradient(top, #4195CC 10%, #4195CC 100%);
+    background: -webkit-linear-gradient(top, #4195CC  10%, #4195CC 100%);
+    background: linear-gradient(to bottom, #4195CC  10%, #4195CC 100%);
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  
+  .bg3 {
+    background: #727171;
+    background: -moz-linear-gradient(top, #AD1F24 10%, #AD1F24 100%);
+    background: -webkit-linear-gradient(top, #AD1F24  10%, #AD1F24 100%);
+    background: linear-gradient(to bottom, #AD1F24  10%, #AD1F24 100%);
+        -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
